@@ -1,0 +1,14 @@
+=====================================
+Date/Time: Tue Nov 04 23:18:06 2025
+Algorithm: Quick Sort
+Numbers sorted: 15000000
+Time taken: 40967 ms
+=====================================
+
+=====================================
+Date/Time: Tue Nov 04 23:23:49 2025
+Algorithm: Quick Sort
+Numbers sorted: 100000
+Time taken: 12 ms
+=====================================
+
